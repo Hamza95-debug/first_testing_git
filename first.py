@@ -1,0 +1,2 @@
+a="Hamza"
+print(a)
